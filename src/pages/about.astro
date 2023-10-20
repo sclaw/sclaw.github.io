@@ -1,0 +1,145 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+import ContactCTA from '../components/ContactCTA.astro';
+import Hero from '../components/Hero.astro';
+---
+
+<BaseLayout title="About | Scott Lawson" description="Dive in">
+	<div class="stack gap-20">
+		<main class="wrapper about">
+			<Hero
+				title="How did I get here?"
+			>
+				<img
+					width="1553"
+					height="873"
+					src="/assets/at-work.jpg"
+					alt="Winter hiking"
+				/>
+			</Hero>
+
+				<section>
+				<h2 class="section-title">Welcome</h2>
+				<div class="content">
+					<p>
+						Hello! My name is Scott, and I currently work as a Research Analyst at the University of Vermont 
+						in beautiful Burlington, VT.  When I'm not out biking and hiking around the Green Mountain State 
+						or tending to my garden, I mostly find myself in front of the computer.  I'm a complete nerd when 
+						it comes to hydrology, mapmaking, statistics, computation, and scripting.  This website hosts some 
+						of my projects in those areas that don't fit neatly on LinkedIn or a GitHub readme.
+
+					</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Background</h2>
+				<div class="content">
+					<p>
+						A friend of mine once told me to "follow what makes you curious," and I find myself returning 
+						to those words whenever I think of my academic and professional path.  As a high schooler who 
+						loved building stage scenery, I decided to go to college for engineering.  As a freshman 
+						concerned with sustainability and community, I pursued Civil Engineeering for its focus on 
+						improving the quality of life of those around me.  I loved all my water-themed coursework, and 
+						after some postgrad traveling, I landed my first job working as a consultant to FEMA's National 
+						Flood Insurance Program.  That job was AWESOME and exposed me to hundreds of hydrologic and 
+						hydraulic models, mapping tools, and furthered my scripting abilities.  After a while, my curiosity 
+						for hydrologic nonstationarity and novel modeling tools got the better of me, and I enrolled at 
+						the University of Vermont to work on generating probabilisitc floodplain maps for 30,000+ miles of 
+						streams in Vermont.  In my thesis project, I've developed a novel statistical hydrology method, and my 
+						current research is on improving the channel routing module of the National Water Model. 
+					</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Education</h2>
+				<div class="content">
+					<p>2018   <b> BS, Civil Engineering and Environmental Studies </b> University of Wisconsin, Madison</p>
+					<p>2023   <b> MS, Civil Engineering </b> University of Vermont</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Skills</h2>
+				<div class="content">
+					<p>Python (expert)</p>
+					<p>R</p>
+					<p>MATLAB</p>
+					<p>VBA</p>
+					<p>Git</p>
+					<p>SQL</p>
+					<br>
+					<p>QGIS (Expert)</p>
+					<p>ArcGIS Pro</p>
+					<p>GDAL/OGR</p>
+					<p>GRASS GIS</p>
+					<p>SAGA</p>
+					<p>TauDEM</p>
+					<br>
+					<p>HEC-RAS</p>
+					<p>HEC-HMS</p>
+					<p>HEC-SSP</p>
+				</div>
+			</section>
+		</main>
+
+		<ContactCTA />
+	</div>
+</BaseLayout>
+
+<style>
+	.about {
+		display: flex;
+		flex-direction: column;
+		gap: 3.5rem;
+	}
+
+	img {
+		margin-top: 1.5rem;
+		border-radius: 1.5rem;
+		box-shadow: var(--shadow-md);
+	}
+
+	section {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		color: var(--gray-200);
+	}
+
+	.section-title {
+		grid-column-start: 1;
+		font-size: var(--text-xl);
+		color: var(--gray-0);
+	}
+
+	.content {
+		grid-column: 2 / 4;
+	}
+
+	.content :global(a) {
+		text-decoration: 1px solid underline transparent;
+		text-underline-offset: 0.25em;
+		transition: text-decoration-color var(--theme-transition);
+	}
+
+	.content :global(a:hover),
+	.content :global(a:focus) {
+		text-decoration-color: currentColor;
+	}
+
+	@media (min-width: 50em) {
+		.about {
+			display: grid;
+			grid-template-columns: 1fr 60% 1fr;
+		}
+
+		.about > :global(:first-child) {
+			grid-column-start: 2;
+		}
+
+		section {
+			display: contents;
+			font-size: var(--text-lg);
+		}
+	}
+</style>
