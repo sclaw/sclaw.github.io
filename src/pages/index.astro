@@ -30,8 +30,8 @@ const projects = (await getCollection('work'))
 		<div class="wrapper stack gap-8 lg:gap-20">
 			<header class="hero">
 				<Hero
-					title="Nice to meet you, I'm Scott Lawson"
-					tagline="Hydrologic Researcher at the University of Vermont."
+					title="Nice to meet you. I'm Scott Lawson"
+					tagline="Hydrologic Researcher at the University of Vermont"
 					align="start"
 				>
 					<div class="roles">
@@ -55,8 +55,8 @@ const projects = (await getCollection('work'))
 		<main class="wrapper stack gap-20 lg:gap-48">
 			<section class="section with-background with-cta">
 				<header class="section-header stack gap-2 lg:gap-4">
-					<h3>Selected Work</h3>
-					<p>Take a look below at some of my featured work for clients from the past few years.</p>
+					<h3>Selected Projects</h3>
+					<p>Come see what I've been working on.</p>
 				</header>
 
 				<div class="gallery">
@@ -90,9 +90,10 @@ const projects = (await getCollection('work'))
 				<div class="gallery">
 					<Grid variant="small">
 						{
-							['"Scott: Making waves in the world, one splash at a time. 🌊💦" - ChatGPT', 'BuzzFeed', 'The Next Web', 'awwwards.', 'TechCrunch'].map((brand) => (
+							
+							['"His ever-flowing love of rivers is reflected in his beautiful maps" -Hannah Sheehy', '"No one better in the biz at pointing out what\'s water. I once saw him spot a nalgene from 5 miles out." -Mark Ashin', '"Scott: Making waves in the world, one splash at a time. 🌊💦" -ChatGPT', '"So good at modeling water, if it were the Middle Ages I’d accuse him of witchcraft" -Myles Smith', '"When I need to know something about a river, you better believe Scott is my first call" -Anonymous'].map((brand) => (
 								<li class="mention-card">
-									<p>{brand}</p>
+									<p style="margin-left:1em; margin-right:1em;">{brand}</p>
 								</li>
 							))
 						}
