@@ -2,7 +2,8 @@
 title: 30DayMapChallenge
 publishDate: 2023-10-30 00:00:00
 img: /assets/30dmc-2023.png
-img_alt: Graphic of challenge: |
+img_alt: Graphic of challenge
+Description: |
   I've enjoyed seeing some of my favorite cartographers work on this challenge before.
   Now it's time to challenge myself.
 tags:
