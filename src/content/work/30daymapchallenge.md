@@ -9,7 +9,7 @@ description: |
 tags:
   - Cartography
   - Maps
-  - Challenge
+  - Side-project
 ---
 
 Every year since 2019, Topi Tjukanov has released 30 prompts on October 1st.  His challenge?  Use the prompts to make one map each day, every day, for the whole month of November.  This is the [30DayMapChallenge](https://30daymapchallenge.com/).
@@ -26,7 +26,7 @@ Please tag along for the journey!
 
 |Day |Date        | Prompt                    |Description                                                                      |Link|
 | ---| ---------- | ------------------------- | ------------------------------------------------------------------------------- |---|
-| 1  | 01-11-2023 | Points                    | A map with points                                                               | |
+| 1  | 01-11-2023 | Points                    | A map with points                                                               | [https://sclaw.github.io/work/30day/points/](https://sclaw.github.io/work/30day/points/)|
 | 2  | 02-11-2023 | Lines                     | A map with lines                                                                | |
 | 3  | 03-11-2023 | Polygons                  | A map with polygons                                                             | |
 | 4  | 04-11-2023 | A bad map                 | Let's get this over with                                                        | |
