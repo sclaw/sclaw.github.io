@@ -11,7 +11,7 @@ tags:
   - Carna Botnet
 ---
 
-Day 1: Points #30DayMapChallenge
+Day 1: Points | #30DayMapChallenge
 
 What would you do with access to 420,000 computers?  In 2012, a security researcher found that many users of the remote terminal application Telnet had never changed the default root:root login credentials.  The researcher coded up a botnet program that would scan internet IP addresses and attempt to log in to any computer with Telnet installed.  Once installed, the virus would replicate itself and use that computer to scan more IP addresses.  Within 16.5 hours, the researcher was in control of 420,000 hosts.
 

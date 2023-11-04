@@ -11,7 +11,7 @@ tags:
   - Hydrology
 ---
 
-Day 2: Lines #30DayMapChallenge
+Day 2: Lines | #30DayMapChallenge
 
 This is a recreation of one of my favorite maps.  It comes from a 1934 report by the Mississippi Valley Committee of the Public Works Administration.  
 
