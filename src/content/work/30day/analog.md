@@ -20,10 +20,10 @@ For analog day I have a selection of the physical maps I have around the house. 
 [![Colombia](/assets/30day/analog/1.jpg)](/assets/30day/analog/1.jpg)
 A 3D map of Colombia
 
-[![Great Lakes](/assets/30day/analog/1.jpg)](/assets/30day/analog/1.jpg)
+[![Great Lakes](/assets/30day/analog/2.jpg)](/assets/30day/analog/2.jpg)
 Atlas map of Wisconsin, Michigan, and the Great Lakes
 
-[![Beartooths](/assets/30day/analog/1.jpg)](/assets/30day/analog/1.jpg)
+[![Beartooths](/assets/30day/analog/3.jpg)](/assets/30day/analog/3.jpg)
 Backcountry camping map of the Beartooth mountains
 
 
