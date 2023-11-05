@@ -30,7 +30,7 @@ Please tag along for the journey!
 | 2   | Lines                     | A map with lines                                                                | [https://sclaw.github.io/work/30day/lines/](https://sclaw.github.io/work/30day/lines/) |
 | 3   | Polygons                  | A map with polygons                                                             | [https://sclaw.github.io/work/30day/polygons/](https://sclaw.github.io/work/30day/polygons/) |
 | 4   | A bad map                 | Let's get this over with                                                        | [https://sclaw.github.io/work/30day/bad_map/](https://sclaw.github.io/work/30day/bad_map/) |
-| 5   | Analog Map                | Non-digital maps                                                                | |
+| 5   | Analog Map                | Non-digital maps                                                                | [https://sclaw.github.io/work/30day/analog/](https://sclaw.github.io/work/30day/analog/) |
 | 6   | Asia                      | Largest of the continents                                                       | |
 | 7   | Navigation                | A map that helps you to navigate                                                | |
 | 8   | Africa                    | Second-largest and second-most populous continent                               | |
