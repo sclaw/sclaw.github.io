@@ -1,6 +1,6 @@
 ---
 title: Analog
-publishDate: 2023-04-11 00:00:00
+publishDate: 2023-05-11 00:00:00
 img: /assets/30day/analog/1.jpg
 img_alt: Colombia
 description: |
