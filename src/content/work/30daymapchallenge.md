@@ -32,7 +32,7 @@ Please tag along for the journey!
 | 4   | A bad map                 | Let's get this over with                                                        | [https://sclaw.github.io/work/30day/bad_map/](https://sclaw.github.io/work/30day/bad_map/) |
 | 5   | Analog Map                | Non-digital maps                                                                | [https://sclaw.github.io/work/30day/analog/](https://sclaw.github.io/work/30day/analog/) |
 | 6   | Asia                      | Largest of the continents                                                       | [https://sclaw.github.io/work/30day/asia/](https://sclaw.github.io/work/30day/asia/) |
-| 7   | Navigation                | A map that helps you to navigate                                                | |
+| 7   | Navigation                | A map that helps you to navigate                                                | [https://sclaw.github.io/work/30day/navigation/](https://sclaw.github.io/work/30day/navigation/) |
 | 8   | Africa                    | Second-largest and second-most populous continent                               | |
 | 9   | Hexagons                  | 6 sides, 6 angles, and 6 vertices                                               | |
 | 10  | North America             | Northern part of the American continent                                         | |
