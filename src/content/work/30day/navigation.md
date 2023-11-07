@@ -17,6 +17,10 @@ Today I took inspiration from another one of my favorite antique maps: A 1936 ma
 
 Funny enough, I liked the antique map before my map-loving days.  Instead, I found it in my seaplane loving days.  I was obsessed with the Pan Am clipper ships and saved this cool route map only to discover years later what a good map it was in its own right.  I've also wanted to document those South America travels for some time now, so today's map double-dipped quite nicely.
 
+Original Map:
+[![Original Map](/assets/30day/PAA_WIKI.jpg)](/assets/30day/PAA_WIKI.jpg)
+
+
 30DayMapChallenge:  [https://30daymapchallenge.com/](https://30daymapchallenge.com/)
 
-Wikipedia Pan Am Clipper Ships:  [https://en.m.wikipedia.org/wiki/Pan_Am#/media/File%3APAA_%22The_Americas%22_Route_Map_1936.jpg](https://en.m.wikipedia.org/wiki/Pan_Am#/media/File%3APAA_%22The_Americas%22_Route_Map_1936.jpg)
+Wikipedia Pan Am Clipper Ships:  [https://en.m.wikipedia.org/wiki/Pan_Am#](https://en.m.wikipedia.org/wiki/Pan_Am#)
