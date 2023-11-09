@@ -34,7 +34,7 @@ Please tag along for the journey!
 | 6   | Asia                      | Largest of the continents                                                       | [https://sclaw.github.io/work/30day/asia/](https://sclaw.github.io/work/30day/asia/) |
 | 7   | Navigation                | A map that helps you to navigate                                                | [https://sclaw.github.io/work/30day/navigation/](https://sclaw.github.io/work/30day/navigation/) |
 | 8   | Africa                    | Second-largest and second-most populous continent                               | [https://sclaw.github.io/work/30day/africa/](https://sclaw.github.io/work/30day/africa/) |
-| 9   | Hexagons                  | 6 sides, 6 angles, and 6 vertices                                               | |
+| 9   | Hexagons                  | 6 sides, 6 angles, and 6 vertices                                               | [https://sclaw.github.io/work/30day/hexagons/](https://sclaw.github.io/work/30day/hexagons/) |
 | 10  | North America             | Northern part of the American continent                                         | |
 | 11  | Retro                     | A blast from the past                                                           | |
 | 12  | South America             | Southern part of the American continent                                         | |
