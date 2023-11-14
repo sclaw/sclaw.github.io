@@ -1,6 +1,6 @@
 ---
 title: Points
-publishDate: 2023-01-11 00:00:00
+publishDate: 2023-11-01 00:00:00
 img: /assets/30day/points.jpg
 img_alt: IP Addresses of the world
 description: |

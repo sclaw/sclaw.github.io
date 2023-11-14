@@ -1,6 +1,6 @@
 ---
 title: North America
-publishDate: 2023-010-11 00:00:00
+publishDate: 2023-11-10 00:00:00
 img: /assets/30day/north_america.jpg
 img_alt: Watersheds of North America
 description: |

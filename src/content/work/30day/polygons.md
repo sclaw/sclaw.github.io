@@ -1,6 +1,6 @@
 ---
 title: Polygons
-publishDate: 2023-03-11 00:00:00
+publishDate: 2023-11-03 00:00:00
 img: /assets/30day/polygons.jpg
 img_alt: Geomorphon map
 description: |

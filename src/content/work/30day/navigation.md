@@ -1,6 +1,6 @@
 ---
 title: Navigation
-publishDate: 2023-07-11 00:00:00
+publishDate: 2023-11-07 00:00:00
 img: /assets/30day/navigation.jpg
 img_alt: South American Routes
 description: |
