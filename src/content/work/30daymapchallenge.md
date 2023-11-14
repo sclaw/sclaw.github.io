@@ -38,7 +38,7 @@ Please tag along for the journey!
 | 10  | North America             | Northern part of the American continent                                         | [https://sclaw.github.io/work/30day/north_america/](https://sclaw.github.io/work/30day/north_america/) |
 | 11  | Retro                     | A blast from the past                                                           | [https://sclaw.github.io/work/30day/retro/](https://sclaw.github.io/work/30day/retro/) |
 | 12  | South America             | Southern part of the American continent                                         | [https://sclaw.github.io/work/30day/south_america/](https://sclaw.github.io/work/30day/south_america/) |
-| 13  | Choropleth                | Classic thematic map: a choropleth                                              | |
+| 13  | Choropleth                | Classic thematic map: a choropleth                                              | [https://sclaw.github.io/work/30day/south_america/](https://sclaw.github.io/work/30day/choropleth/) |
 | 14  | Europe                    | The westernmost peninsulas of Eurasia                                           | |
 | 15  | OpenStreetMap             | The greatest of the datasets. Remember to give credit.                          | |
 | 16  | Oceania                   | Region made up of thousands of islands throughout the Central and South Pacific | |
