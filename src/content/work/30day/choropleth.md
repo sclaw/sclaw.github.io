@@ -1,7 +1,7 @@
 ---
 title: Choropleth
 publishDate: 2023-11-13 00:00:00
-img: assets\30day\choropleth.jpg
+img: /assets/30day/choropleth.jpg
 img_alt: Premium changes for Risk Rating 2.0
 description: |
   
