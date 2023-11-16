@@ -41,7 +41,7 @@ Please tag along for the journey!
 | 13  | Choropleth                | Classic thematic map: a choropleth                                              | [https://sclaw.github.io/work/30day/south_america/](https://sclaw.github.io/work/30day/choropleth/) |
 | 14  | Europe                    | The westernmost peninsulas of Eurasia                                           | [https://sclaw.github.io/work/30day/europe/](https://sclaw.github.io/work/30day/europe/) |
 | 15  | OpenStreetMap             | The greatest of the datasets. Remember to give credit.                          | [https://sclaw.github.io/work/30day/openstreetmap/](https://sclaw.github.io/work/30day/openstreetmap/) |
-| 16  | Oceania                   | Region made up of thousands of islands throughout the Central and South Pacific | |
+| 16  | Oceania                   | Region made up of thousands of islands throughout the Central and South Pacific | [https://sclaw.github.io/work/30day/oceania/](https://sclaw.github.io/work/30day/oceania/) |
 | 17  | Flow                      | Flow of transport, people                                                       | |
 | 18  | Atmosphere                | Conditions of the atmosphere can be either weather or climate                   | |
 | 19  | 5-minute map              | Spend no more than 5 minutes to prepare this map                                | |
