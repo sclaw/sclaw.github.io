@@ -47,7 +47,7 @@ Please tag along for the journey!
 | 19  | 5-minute map              | Spend no more than 5 minutes to prepare this map                                | [https://sclaw.github.io/work/30day/5minute/](https://sclaw.github.io/work/30day/5minute/) |
 | 20  | Outdoors                  | Map of mountains, trails, or something completely different                     | [https://sclaw.github.io/work/30day/outdoors/](https://sclaw.github.io/work/30day/outdoors/) |
 | 21  | Raster                    | Pixels, please                                                                  | |
-| 22  | North is not always up    | ⬆️                                                                               | |
+| 22  | North is not always up    | ⬆️                                                                               | [https://sclaw.github.io/work/30day/north/](https://sclaw.github.io/work/30day/north/) |
 | 23  | 3D                        | The third dimension                                                             | |
 | 24  | Black & white             | Only two colors allowed                                                         | |
 | 25  | Antarctica                | A cold continent that can't be reached with Web Mercator                        | |
