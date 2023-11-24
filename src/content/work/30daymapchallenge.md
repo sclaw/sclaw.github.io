@@ -49,7 +49,7 @@ Please tag along for the journey!
 | 21  | Raster                    | Pixels, please                                                                  | |
 | 22  | North is not always up    | ⬆️                                                                               | [https://sclaw.github.io/work/30day/north/](https://sclaw.github.io/work/30day/north/) |
 | 23  | 3D                        | The third dimension                                                             | |
-| 24  | Black & white             | Only two colors allowed                                                         | |
+| 24  | Black & white             | Only two colors allowed                                                         | [https://sclaw.github.io/work/30day/bw/](https://sclaw.github.io/work/30day/bw/) |
 | 25  | Antarctica                | A cold continent that can't be reached with Web Mercator                        | |
 | 26  | Minimal                   | Less is more                                                                    | |
 | 27  | Dot                       | Dot density, a single dot in space or something different                       | |
