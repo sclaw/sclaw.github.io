@@ -50,7 +50,7 @@ Please tag along for the journey!
 | 22  | North is not always up    | ⬆️                                                                               | [https://sclaw.github.io/work/30day/north/](https://sclaw.github.io/work/30day/north/) |
 | 23  | 3D                        | The third dimension                                                             | |
 | 24  | Black & white             | Only two colors allowed                                                         | [https://sclaw.github.io/work/30day/bw/](https://sclaw.github.io/work/30day/bw/) |
-| 25  | Antarctica                | A cold continent that can't be reached with Web Mercator                        | |
+| 25  | Antarctica                | A cold continent that can't be reached with Web Mercator                        | [https://sclaw.github.io/work/30day/antarctica/](https://sclaw.github.io/work/30day/antarctica/) |
 | 26  | Minimal                   | Less is more                                                                    | |
 | 27  | Dot                       | Dot density, a single dot in space or something different                       | |
 | 28  | Is this a chart or a map? | In thematic maps, you can't always tell. Try to stretch the limits              | |
