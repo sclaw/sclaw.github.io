@@ -54,5 +54,5 @@ Please tag along for the journey!
 | 26  | Minimal                   | Less is more                                                                    | [https://sclaw.github.io/work/30day/minimal/](https://sclaw.github.io/work/30day/minimal/) |
 | 27  | Dot                       | Dot density, a single dot in space or something different                       | [https://sclaw.github.io/work/30day/dot/](https://sclaw.github.io/work/30day/dot/) |
 | 28  | Is this a chart or a map? | In thematic maps, you can't always tell. Try to stretch the limits              | [https://sclaw.github.io/work/30day/som/](https://sclaw.github.io/work/30day/som/) |
-| 29  | Population                | A classic theme for a map                                                       | |
+| 29  | Population                | A classic theme for a map                                                       | [https://sclaw.github.io/work/30day/population/](https://sclaw.github.io/work/30day/population/) |
 | 30  | "My favorite.."           | You choose!                                                                     | |
