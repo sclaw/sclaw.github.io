@@ -1,6 +1,6 @@
 ---
 title: Population
-publishDate: 2023-11-28 00:00:00
+publishDate: 2023-11-29 00:00:00
 img: /assets/30day/population.jpg
 img_alt: US Graduate student population
 description: |
