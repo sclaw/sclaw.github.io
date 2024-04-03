@@ -1,5 +1,5 @@
 ---
-title: North is not alwasy up
+title: North is not always up
 publishDate: 2023-11-22 00:00:00
 img: /assets/30day/north.jpg
 img_alt: US Mexico Border
