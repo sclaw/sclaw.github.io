@@ -7,6 +7,7 @@ import ContactCTA from '../components/ContactCTA.astro';
 import RepoPreview from '../components/RepoPreview.astro';
 import Hero from '../components/Hero.astro';
 import Grid from '../components/Grid.astro';
+import GithubPortfolio from '../components/GithubPortfolio.astro';
 
 
 ---
@@ -19,14 +20,10 @@ import Grid from '../components/Grid.astro';
         <main class="wrapper stack gap-8">
             <Hero
                 title="GitHub Repositories"
-                tagline="This page is currently under construction."
+                tagline="I love free and open source software!"
                 align="start"
             />
-            <a href="https://github.com/sclaw">For now, please check https://github.com/sclaw</a>
-            <Grid variant="offset">
-                {
-                }
-            </Grid>
+            <GithubPortfolio />
         </main>
         <ContactCTA />
     </div>
