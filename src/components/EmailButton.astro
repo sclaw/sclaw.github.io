@@ -1,0 +1,29 @@
+---
+// EmailButton.astro
+const email = "scott.lawson@uvm.edu";
+---
+
+<style>
+  .fancy-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: var(--text-md);
+    font-weight: bold;
+    color: #fff;
+    background: linear-gradient(45deg, var(--accent-regular), var(--accent-overlay));
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .fancy-button:hover {
+    background: linear-gradient(45deg, var(--accent-overlay), var(--accent-regular));
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+</style>
+
+<a href={`mailto:${email}`} class="fancy-button">
+  {email}
+</a>

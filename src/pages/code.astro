@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+import ContactCTA from '../components/ContactCTA.astro';
+import RepoPreview from '../components/RepoPreview.astro';
+import Hero from '../components/Hero.astro';
+import Grid from '../components/Grid.astro';
+
+
+---
+
+<BaseLayout
+    title="My GitHub Repos | Scott Lawson"
+    description="Check out my code"
+>
+    <div class="stack gap-20">
+        <main class="wrapper stack gap-8">
+            <Hero
+                title="GitHub Repositories"
+                tagline="This page is currently under construction."
+                align="start"
+            />
+            <a href="https://github.com/sclaw">For now, please check https://github.com/sclaw</a>
+            <Grid variant="offset">
+                {
+                }
+            </Grid>
+        </main>
+        <ContactCTA />
+    </div>
+</BaseLayout>
