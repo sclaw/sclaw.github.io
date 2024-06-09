@@ -12,6 +12,7 @@ import Icon from '../components/Icon.astro';
 import Pill from '../components/Pill.astro';
 import PortfolioPreview from '../components/PortfolioPreview.astro';
 import EmailButton from '../components/EmailButton.astro';
+import GithubPortfolio from '../components/GithubPortfolio.astro';
 
 // Page section components
 import ContactCTA from '../components/ContactCTA.astro';
@@ -81,6 +82,25 @@ const projects = (await getCollection('work'))
 				</div>
 			</section>
 
+			<main class="wrapper stack gap-20 lg:gap-48">
+				<section class="section with-background with-cta">
+					<header class="section-header stack gap-2 lg:gap-4">
+						<h3>Coding portfolio</h3>
+						<p>Some of the full-featured Python libraries I've made</p>
+					</header>
+	
+					<div class="gallery">
+						<GithubPortfolio />
+					</div>
+
+			
+					<div class="cta">
+						<CallToAction href="/code/">
+							View All
+							<Icon icon="arrow-right" size="1.2em" />
+						</CallToAction>
+					</div>
+				</section>
 
 
 			<section class="section with-background bg-variant">
