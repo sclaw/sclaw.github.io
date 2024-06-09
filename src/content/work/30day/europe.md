@@ -1,6 +1,7 @@
 ---
 title: Europe
 publishDate: 2023-11-14 00:00:00
+visPriority: 9
 img: /assets/30day/europe.jpg
 img_alt: Watersheds of Europe
 description: |

@@ -1,6 +1,7 @@
 ---
 title: 5 Minute Map
 publishDate: 2023-11-19 00:00:00
+visPriority: 21
 img: /assets/30day/5minute.jpg
 img_alt: Winooski River
 description: |

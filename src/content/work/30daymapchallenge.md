@@ -1,6 +1,7 @@
 ---
 title: 30DayMapChallenge
 publishDate: 2023-10-30 00:00:00
+visPriority: 31
 img: /assets/30dmc-2023.png
 img_alt: Graphic of challenge
 description: |

@@ -1,6 +1,7 @@
 ---
 title: Black & White
 publishDate: 2023-11-24 00:00:00
+visPriority: 13
 img: /assets/30day/bw.jpg
 img_alt: Dead Creek, VT
 description: |

@@ -1,6 +1,7 @@
 ---
 title: hexagons
 publishDate: 2023-11-09 00:00:00
+visPriority: 11
 img: /assets/30day/hexagons.jpg
 img_alt: Real Catan
 description: |

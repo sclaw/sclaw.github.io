@@ -1,6 +1,7 @@
 ---
 title: Dot
 publishDate: 2023-11-27 00:00:00
+visPriority: 17
 img: /assets/30day/dot.jpg
 img_alt: Great Lake Depths
 description: |

@@ -1,6 +1,7 @@
 ---
 title: Retro
 publishDate: 2023-11-11 00:00:00
+visPriority: 1
 img: /assets/30day/retro.jpg
 img_alt: Glacial Lakes and Champlain Sea
 description: |

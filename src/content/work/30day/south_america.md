@@ -1,6 +1,7 @@
 ---
 title: South America
 publishDate: 2023-11-12 00:00:00
+visPriority: 7
 img: /assets/30day/south_america.jpg
 img_alt: Watersheds of South America
 description: |

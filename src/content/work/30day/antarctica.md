@@ -1,6 +1,7 @@
 ---
 title: Antarctica
 publishDate: 2023-11-25 00:00:00
+visPriority: 18
 img: /assets/30day/antarctica.jpg
 img_alt: antarctica
 description: |

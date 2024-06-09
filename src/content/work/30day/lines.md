@@ -1,6 +1,7 @@
 ---
 title: Lines
 publishDate: 2023-11-02 00:00:00
+visPriority: 2
 img: /assets/30day/lines.jpg
 img_alt: Mississippi River Watershed
 description: |

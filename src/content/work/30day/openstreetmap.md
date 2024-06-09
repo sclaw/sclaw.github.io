@@ -1,6 +1,7 @@
 ---
 title: OpenStreetMap
 publishDate: 2023-11-15 00:00:00
+visPriority: 15
 img: /assets/30day/openstreetmap.jpg
 img_alt: Burlington, VT
 description: |

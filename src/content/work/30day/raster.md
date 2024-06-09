@@ -1,6 +1,7 @@
 ---
 title: Raster
 publishDate: 2023-11-21 00:00:00
+visPriority: 28
 img: /assets/30day/raster.mp4
 img_alt: UVM Natural Areas
 description: |

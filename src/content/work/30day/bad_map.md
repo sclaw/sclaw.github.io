@@ -1,6 +1,7 @@
 ---
 title: A Bad Map
 publishDate: 2023-11-04 00:00:00
+visPriority: 25
 img: /assets/30day/bad_map.jpg
 img_alt: Heinous Maryland
 description: |

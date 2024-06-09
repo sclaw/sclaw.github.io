@@ -1,6 +1,7 @@
 ---
 title: Minimal
 publishDate: 2023-11-26 00:00:00
+visPriority: 4
 img: /assets/30day/minimal.jpg
 img_alt: world climates
 description: |

@@ -1,6 +1,7 @@
 ---
 title: Asia
 publishDate: 2023-11-06 00:00:00
+visPriority: 8
 img: /assets/30day/asia.jpg
 img_alt: Watersheds of Asia
 description: |

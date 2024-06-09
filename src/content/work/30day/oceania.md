@@ -1,6 +1,7 @@
 ---
 title: Oceania
 publishDate: 2023-11-16 00:00:00
+visPriority: 10
 img: /assets/30day/oceania.jpg
 img_alt: Watersheds of Oceania
 description: |

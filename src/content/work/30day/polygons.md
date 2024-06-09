@@ -1,6 +1,7 @@
 ---
 title: Polygons
 publishDate: 2023-11-03 00:00:00
+visPriority: 16
 img: /assets/30day/polygons.jpg
 img_alt: Geomorphon map
 description: |

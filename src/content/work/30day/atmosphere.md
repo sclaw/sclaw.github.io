@@ -1,6 +1,7 @@
 ---
 title: Atmosphere
 publishDate: 2023-11-18 00:00:00
+visPriority: 22
 img: /assets/30day/atmosphere.jpg
 img_alt: Washington DC Heat Islands
 description: |

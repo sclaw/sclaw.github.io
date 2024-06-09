@@ -1,6 +1,7 @@
 ---
 title: Outdoors
 publishDate: 2023-11-20 00:00:00
+visPriority: 20
 img: /assets/30day/outdoors.jpg
 img_alt: UVM Natural Areas
 description: |

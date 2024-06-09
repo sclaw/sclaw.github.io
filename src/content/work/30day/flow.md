@@ -1,6 +1,7 @@
 ---
 title: Flow
 publishDate: 2023-11-17 00:00:00
+visPriority: 12
 img: /assets/30day/flow.jpg
 img_alt: Ceci nes pas un pipe
 description: |

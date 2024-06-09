@@ -1,6 +1,7 @@
 ---
 title: Africa
 publishDate: 2023-11-08 00:00:00
+visPriority: 6
 img: /assets/30day/africa.jpg
 img_alt: Watersheds of Africa
 description: |

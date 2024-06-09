@@ -1,6 +1,7 @@
 ---
 title: "My favorite.."
 publishDate: 2023-11-30 00:00:00
+visPriority: 23
 img: /assets/30day/favorite.jpg
 img_alt: Blue Marble
 description: |

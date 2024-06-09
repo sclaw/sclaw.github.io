@@ -1,6 +1,7 @@
 ---
 title: Is this a chart or a map?
 publishDate: 2023-11-28 00:00:00
+visPriority: 27
 img: /assets/30day/SOM/1-som.png
 img_alt: Clustered Countries
 description: |
