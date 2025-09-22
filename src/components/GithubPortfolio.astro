@@ -10,7 +10,7 @@ async function fetchRepos() {
   const userResponse = await fetch("https://api.github.com/users/sclaw/repos");
   const uvmResponse = await fetch("https://api.github.com/orgs/CIROH-UVM/repos");
   const ffrdResponse = await fetch("https://api.github.com/orgs/fema-ffrd/repos");
-  const dewResponse = await fetch("https://api.github.com/orgs/dewberry/repos");
+  const dewResponse = await fetch("https://api.github.com/orgs/dewberry/repos?per_page=100");
 
   const userRepos: Repo[] = await userResponse.json();
   const uvmRepos: Repo[] = await uvmResponse.json();
